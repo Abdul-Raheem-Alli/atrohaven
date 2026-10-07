@@ -7,7 +7,7 @@ A simple, responsive one-page website for Atrohaven.
 - `styles.css` — styling
 
 ## Before publishing
-1. Replace `hello@atrohaven.com` in `index.html` with an email address you actually control.
+1. Replace `ayomide@astrohaven.gtechsolutions.net` in `index.html` with an email address you actually control.
 2. If you do not own `atrohaven.com`, do not use that email address. Change it to your real business email.
 3. Review every statement on the page and only keep claims that are true.
 
